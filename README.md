@@ -1,4 +1,5 @@
 # 🏏 Cricket Live Scoreboard | React.js
+🔗 Live Demo: https://cricket-live-scoreboard.vercel.app/
 
 A complete, interactive Cricket Scoreboard Web Application built using **React.js**.  
 The application allows users to **track, manage, and display live cricket match scores** with a detailed batting and bowling scorecard, real-time updates, and match highlights.
